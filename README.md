@@ -1,7 +1,8 @@
 <h2> Hi, I'm Vincent Shi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbDV5bGRoMnd1aTVlYnYxMjRueWxuenRrZjZxMXE3aDNzaTdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" width=25></h2>
 
 <p align="center"> 
-<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" width=75> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=38C2FF&center=true&vCenter=true&multiline=true&repeat=false&width=320&height=70&lines=Computer+Science+Student;Birmingham+City+University" alt="Typing SVG" /></a>
+<img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" width=75> <a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=38C2FF&center=true&vCenter=true&multiline=true&repeat=false&width=320&height=70&lines=Computer+Science+Student;Birmingham+City+University" alt="Typing SVG" /></a>
 <img src="https://cdn.discordapp.com/attachments/547055904005160960/1282394462072340634/Birmingham-City-University-logo.png?ex=66df3269&is=66dde0e9&hm=b6ef16c95ac5a0bce86763840c1cd71c969f61d8eed4ef74423d94d03b8f3d72&" width=120>
 
 
