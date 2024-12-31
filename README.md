@@ -17,7 +17,7 @@ class Computer_Science_Student:
         self.name = "Vincent Shi"
         self.role = "BSc Computer Science Student"
         self.language_spoken = ["en_UK", "zh_CN"]
-        sel.study = "Birmingham City University"
+        self.study = "Birmingham City University"
 
     def my_goal(self):
         self.goal = "I am focused to applying graduate jobs" 
